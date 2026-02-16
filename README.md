@@ -56,19 +56,15 @@
     
    
   <summary><h3>Languages</h3></summary>
-            <p align="center">
+      <p align="center">
         <a href="https://github.com/becca221b">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=becca221b&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/becca221b/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=becca221b&theme=gruvbox&layout=compact&hide_border=true"
+          <img height="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=becca221b&layout=compact&langs_count=8&theme=gruvbox"/>
+        </a>
+        <a href="https://github.com/becca221b/">
+          <img height="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=becca221b&theme=gruvbox&layout=compact&hide_border=true"
           alt="becca221b :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=becca221b&theme=gruvbox&layout=compact&hide_border=true"
-          alt="becca221b :: Top Langs by commit" />
-          </a>
-        </p>
+      </p>
+        
 
   
   <summary><h3>Stats</h3></summary>
