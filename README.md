@@ -79,7 +79,13 @@
           </a>
        </p>
      <br>
-     
+    
+
+ <div align="center">
+
+   
+   <a href="https://github.com/becca221b"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=becca221b&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
+  
   </div>    
 
 
