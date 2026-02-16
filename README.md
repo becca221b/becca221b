@@ -1,6 +1,7 @@
 ### <h1>Hi there 👋 I am Rebeca Ozuna</h1>
 
 > I am Backend Developer
+<br />
 > Currently studyig University Associate Degree in Programming at UTN FRRe
 <br />
 
