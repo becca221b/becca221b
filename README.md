@@ -3,7 +3,7 @@
 > I am Backend Developer
 
 - :computer: &nbsp;Connect with me on **http://linkedin.com/in/rebeca-ozuna**
-- 📚 Currently studyig University Associate Degree in Programming at UTN FRRe
+- 📚 Currently studying University Associate Degree in Programming at UTN FRRe
 - 📫 Contact me **rebeca.ozuna@outlook.com**
 - 💬 Ask me about anything
 
