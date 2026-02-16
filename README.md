@@ -1,6 +1,3 @@
-
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
 ### <h1>Hi there 👋 I am Rebeca Ozuna</h1>
 
 > I am Backend Developer
@@ -35,30 +32,6 @@
 
  ## 🛠️ Software & Tools
  
-<p>
-  
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     
-   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
-    
-</p>
-
-
-<br><br>
 
 ## 🚥 Activity
 
@@ -103,7 +76,7 @@
   
 <a href="https://linkedin.com/in/rebeca-ozuna" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="becca221b" height="30" width="40" /></a>
 
-<a href="mailTo:rebeca-ozuna@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="becca221b" height="30" width="40" /></a>
+<a href="mailTo:rebeca.ozuna@outlook.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="becca221b" height="30" width="40" /></a>
 <a href="https://github.com/becca221b" target="blank"> <img align="center" alt="https://github.com/becca221b" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
