@@ -1,8 +1,9 @@
 # <h1>Hi there 👋 I am Rebeca Ozuna</h1>
 
-## I am Backend Developer
+### Backend Developer focused on building scalable APIs and business applications
 
-- 📚 Currently studying University Associate Degree in Programming at UTN FRRe
+
+- 📚 University Associate Degree in Programming – UTN FRRe (In progress)
 - :computer: &nbsp;Connect with me on **http://linkedin.com/in/rebeca-ozuna**
 - 📫 Contact me at **rebeca.ozuna@outlook.com**
 - 💬 Ask me about anything
@@ -32,7 +33,7 @@
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases & Cloud
 <div>
   <img  alt="postgresql" src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img  alt="aws" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -88,7 +89,7 @@
 ## 😎 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/rebeca-ozuna" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="becca221b" height="30" width="40" /></a>
-<a href="mailTo:rebeca.ozuna@outlook.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="becca221b" height="30" width="40" /></a>
+<a href="mailto:rebeca.ozuna@outlook.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="becca221b" height="30" width="40" /></a>
 <a href="https://github.com/becca221b" target="blank"> <img align="center" alt="https://github.com/becca221b" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
