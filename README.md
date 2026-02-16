@@ -39,9 +39,9 @@
    
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/becca221b/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becca221b&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="becca221b :: overall Top Langs " /></a>
+        <a href="https://github.com/becca221b">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=becca221b&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
       </p>
         <p align="center">
           <a href="https://github.com/becca221b/">
