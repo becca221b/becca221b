@@ -6,7 +6,7 @@
 - 📚 University Associate Degree in Programming – UTN FRRe (In progress)
 - :computer: &nbsp;Connect with me on **http://linkedin.com/in/rebeca-ozuna**
 - 📫 Contact me at **rebeca.ozuna@outlook.com**
-- 💬 Ask me about anything
+- 💬 Always open to talk
 
 
 ### 👉 Programming languages
