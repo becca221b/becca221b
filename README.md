@@ -17,7 +17,6 @@
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>  
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -30,7 +29,40 @@
  <br><br>
 </div>
 
- ## 🛠️ Software & Tools
+  ## 💻 GitHub Profile Stats</summary>
+  <div>
+
+    <h2 align="center"> Github stats </h2>
+      <br/>
+   
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becca221b&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/becca221b/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=becca221b&theme=gruvbox&layout=compact&hide_border=true"
+          alt="becca221b :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=becca221btheme=gruvbox&layout=compact&hide_border=true"
+          alt="becca221b :: Top Langs by commit" />
+          </a>
+        </p>
+
+  
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=becca221b&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=becca221b&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     
+  </div>    
+
+
  
 
 ## 🚥 Activity
