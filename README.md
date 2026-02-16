@@ -1,14 +1,11 @@
 ### <h1>Hi there 👋 I am Rebeca Ozuna</h1>
 
 > I am Backend Developer
-<br />
-> Currently studyig University Associate Degree in Programming at UTN FRRe
-<br />
 
-<!--- 🌱 &nbsp;I'm currently studying at UTN FRRe-->
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **rebeca.ozuna@outlook.com**
-- 💬 Ask me about: anything
+- :computer: &nbsp;Connect with me on **http://linkedin.com/in/rebeca-ozuna**
+- 📚 Currently studyig University Associate Degree in Programming at UTN FRRe
+- 📫 Contact me **rebeca.ozuna@outlook.com**
+- 💬 Ask me about anything
 
 
 ## 💻 Technologies 
