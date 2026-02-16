@@ -6,7 +6,7 @@
 <!--- 🌱 &nbsp;I'm currently studying at UTN FRRe-->
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **rebeca.ozuna@outlook.com**
-- 💬 Ask me about: anything, I am happy to help
+- 💬 Ask me about: anything
 
 
 ## 💻 Technologies 
@@ -45,13 +45,13 @@
           <a href="https://github.com/becca221b/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=becca221b&theme=gruvbox&layout=compact&hide_border=true"
           alt="becca221b :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=becca221btheme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=becca221b&theme=gruvbox&layout=compact&hide_border=true"
           alt="becca221b :: Top Langs by commit" />
           </a>
         </p>
 
   
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Stats</h3></summary>
         <p align="center">
           <a href="https://github.com/becca221b/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=becca221b&show_icons=true&theme=gruvbox&hide_border=true" />
