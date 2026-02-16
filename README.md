@@ -1,14 +1,14 @@
-### <h1>Hi there 👋 I am Rebeca Ozuna</h1>
+# <h1>Hi there 👋 I am Rebeca Ozuna</h1>
 
-> I am Backend Developer
+## I am Backend Developer
 
-- :computer: &nbsp;Connect with me on **http://linkedin.com/in/rebeca-ozuna**
 - 📚 Currently studying University Associate Degree in Programming at UTN FRRe
-- 📫 Contact me **rebeca.ozuna@outlook.com**
+- :computer: &nbsp;Connect with me on **http://linkedin.com/in/rebeca-ozuna**
+- 📫 Contact me at **rebeca.ozuna@outlook.com**
 - 💬 Ask me about anything
 
 
-## 💻 Technologies 
+### 💻 Technologies 
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,7 +35,7 @@
  <br><br>
 </div>
 
-  ## 💻 GitHub Profile Stats</summary>
+  ### 💻 GitHub Profile Stats</summary>
   <div>
 
     
@@ -70,7 +70,7 @@
 
  
 
-## 🚥 Activity
+### 🚥 Activity
 
 
 ![Rebeca's Graph](https://github-readme-activity-graph.vercel.app/graph?username=becca221b&custom_title=Rebeca's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
